@@ -1,0 +1,6 @@
+#mac tmp files
+._*
+
+smart_contracts/build/
+smart_contracts/node_modules/
+
